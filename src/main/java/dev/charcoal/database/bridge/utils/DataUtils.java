@@ -1,4 +1,4 @@
-package dev.charcoal.database.bridge;
+package dev.charcoal.database.bridge.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;

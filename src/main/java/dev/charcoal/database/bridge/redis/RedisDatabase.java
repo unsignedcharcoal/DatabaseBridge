@@ -3,7 +3,7 @@ package dev.charcoal.database.bridge.redis;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import dev.charcoal.database.bridge.AsyncDatabase;
-import dev.charcoal.database.bridge.DataUtils;
+import dev.charcoal.database.bridge.utils.DataUtils;
 import dev.charcoal.database.bridge.SyncDatabase;
 import io.lettuce.core.RedisClient;
 import io.lettuce.core.api.StatefulRedisConnection;

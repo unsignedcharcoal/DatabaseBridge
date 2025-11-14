@@ -3,7 +3,7 @@ package dev.charcoal.database.bridge.file.impl;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import dev.charcoal.database.bridge.file.FileDatabase;
 import dev.charcoal.database.bridge.file.exception.JsonDatabaseException;
-import dev.charcoal.database.bridge.DataUtils;
+import dev.charcoal.database.bridge.utils.DataUtils;
 import lombok.Getter;
 
 import java.io.File;

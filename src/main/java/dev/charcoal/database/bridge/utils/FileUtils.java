@@ -1,4 +1,4 @@
-package dev.charcoal.database.bridge;
+package dev.charcoal.database.bridge.utils;
 
 
 import org.jetbrains.annotations.NotNull;
